@@ -1,6 +1,6 @@
 baseurl = "https://anandkanishka.com"
 languageCode = "en-us"
-title = "Kanishka Anand: Observe, Learn & Share"
+title = "Kanishka Anand - Observe, Learn & Share"
 theme = "hugo-lithium-theme"
 googleAnalytics = ""
 disqusShortname = ""
@@ -12,7 +12,7 @@ disableKinds = ["taxonomy", "taxonomyTerm", "section", "404"]
 
 [[menu.main]]
     name = "About"
-    url = "/about/"
+    url = "/content/page/about.md"
 [[menu.main]]
     name = "LinkedIn"
     url = "https://www.linkedin.com/in/anandkanishka/"
