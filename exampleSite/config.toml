@@ -1,6 +1,6 @@
-baseurl = "https://example.org"
+baseurl = "https://anandkanishka.com"
 languageCode = "en-us"
-title = "Lithium Theme"
+title = "Kanishka Anand"
 theme = "hugo-lithium-theme"
 googleAnalytics = ""
 disqusShortname = ""
@@ -14,11 +14,11 @@ disableKinds = ["taxonomy", "taxonomyTerm", "section", "404"]
     name = "About"
     url = "/about/"
 [[menu.main]]
-    name = "GitHub"
-    url = ""
+    name = "LinkedIn"
+    url = "https://www.linkedin.com/in/anandkanishka/"
 [[menu.main]]
     name = "Twitter"
-    url = ""
+    url = "https://twitter.com/manukanishka"
 
 [params]
     mainSections = ["post"]
@@ -29,11 +29,10 @@ disableKinds = ["taxonomy", "taxonomyTerm", "section", "404"]
     favicon = "favicon.ico"
 
     [params.logo]
-    url = "logo.png"
+    url = "dp.jpg"
     width = 50
     height = 50
-    alt = "Logo"
+    alt = "observation & gyaan"
 
     [params.icon]
-    url = "favicon.ico"
-
+    url = "dp.jpg"
