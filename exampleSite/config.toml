@@ -1,6 +1,6 @@
 baseurl = "https://anandkanishka.com"
 languageCode = "en-us"
-title = "Kanishka Anand"
+title = "Kanishka Anand: Observe, Learn & Share"
 theme = "hugo-lithium-theme"
 googleAnalytics = ""
 disqusShortname = ""
@@ -25,14 +25,12 @@ disableKinds = ["taxonomy", "taxonomyTerm", "section", "404"]
 
     description = ""
 
-    # path to the favicon, under "static"
-    favicon = "favicon.ico"
 
     [params.logo]
-    url = "dp.jpg"
+    url = "logo_2.jpg"
     width = 50
     height = 50
     alt = "observation & gyaan"
 
     [params.icon]
-    url = "dp.jpg"
+    url = "logo_2.jpg"
